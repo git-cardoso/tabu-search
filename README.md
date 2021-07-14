@@ -13,8 +13,7 @@ procedimento adaptativo auxiliar guia o algoritmo de busca local na exploração
  
  
 
- [Info](htthttps://pt.wikipedia.org/wiki/Pesquisa_tabu)
-
+ [Info](https://pt.wikipedia.org/wiki/Pesquisa_tabu)
 
  
  
