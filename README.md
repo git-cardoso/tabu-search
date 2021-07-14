@@ -14,6 +14,8 @@ procedimento adaptativo auxiliar guia o algoritmo de busca local na exploração
  
 
  [Info](https://pt.wikipedia.org/wiki/Pesquisa_tabu)
+ 
+ ![](https://img.shields.io/badge/R-4.1.1-informational?style=flat&logo=r&logoColor=white&color=blue)  ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
 
  
  
